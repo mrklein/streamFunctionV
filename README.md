@@ -1,9 +1,9 @@
 # streamFunctionV
 
 Original OpenFOAM's streamFunction create result as a pointScalarField which
-can't be post-processed with sample utility. This modification of the creates
-additional resulting field streamFunctionV. It is volScalarField made by point
--> cell interpolation of the streamFunction pointScalarField.
+can't be post-processed with sample utility. This modification creates
+additional field streamFunctionV. It is volScalarField made by point -> cell
+interpolation of the streamFunction pointScalarField.
 
 ## Installation
 
