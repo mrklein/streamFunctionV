@@ -7,5 +7,5 @@ interpolation of the streamFunction pointScalarField.
 
 ## Installation
 
-Create a clone of the repository (or download [tar-ball](https://bitbucket.org/mrklein/streamfunctionv/get/master.tar.gz)) and run wmake in the
+Create a clone of the repository (or download [tar-ball](https://github.com/mrklein/streamFunctionV/archive/master.tar.gz)) and run wmake in the
 folder with C file.
